@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from fpdf import FPDF
 
-logo_path = "data:https://www.google.com/url?sa=i&url=https%3A%2F%2Farmadainfotech.com%2Farmada-infotech-your-global-it-partner%2Ferp-logo%2F&psig=AOvVaw25NHjY_uOTAJqcrvzfdbAE&ust=1732580633337000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCdjYic9okDFQAAAAAdAAAAABAE"  # Asegúrate de poner la ruta correcta
+logo_path = "https://armadainfotech.com/wp-content/uploads/2018/07/erp-logo.png"  # Asegúrate de poner la ruta correcta
 
 # Configuración inicial
 st.set_page_config(page_title="Módulos del ERP", layout="wide",page_icon=logo_path)
